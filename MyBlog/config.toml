@@ -8,7 +8,7 @@ enableEmoji = true
 
 [params]
   logo = "/images/logo.png"
-  description ="Data met science"
+  description ="All about Data!"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
