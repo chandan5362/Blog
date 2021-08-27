@@ -23,8 +23,8 @@ enableEmoji = true
   mdtext = '''
 I am a 4th year undergraduate at Indian Institute of information Technology Sricity, Chittoor\
 **(Computer Science and Engineering)**
-### This is a markdown heading
-'''
+
+## Hello there!'''
   alertbar = false
 
 [params.social]
