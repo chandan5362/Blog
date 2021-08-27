@@ -17,11 +17,11 @@ Hypothesis testing plays an important role in statistics for decision making. Th
 
 Let X be a random variable and 𝒳 be the range of random variable X. We test a hypothesis by finding a subset of random variable X∈R where R is the rejection region. As stated earlier, null hypothesis is denoted by H0 and alternative hypothesis is denoted by H1. So, if x∈R, we reject H0 and accept H1, otherwise we do not reject H0.
 
- <p align="center">  <img src="ht1.png" /></p>
+![](ht1.png)
 
 There are two types of errors one can possibly make during hypothesis testing. Rejecting H0 when H0 is true can causes **Type I** error and retaining H0 when H1 is true can cause **Type II** error.
 
- <p align="center">  <img src="ht2.png" /></p>
+![](ht2.png)
 
 
 
