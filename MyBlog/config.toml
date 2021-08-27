@@ -1,0 +1,52 @@
+baseURL = "https://chandan5362.github.io/"
+languageCode = "en-us"
+title = "Chandan's Blog"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Chandan Roy - All rights reserved"
+enableEmoji = true
+
+[params]
+  logo = "/images/logo.png"
+  description ="Data met science"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Chandan Kumar Roy"
+  thumbnail = "/images/author.png"
+  description = "Author of this blog."
+
+[params.index]
+  picture = "/images/author.png"
+  title = "Chandan Kumar Roy"
+  subtitle = "Aspiring Data Scientist"
+  mdtext = '''
+I am a 4th year undergraduate at Indian Institute of information Technology Sricity, Chittoor\
+**(Computer Science and Engineering)**
+### This is a markdown heading
+'''
+  alertbar = false
+
+[params.social]
+  github = "chandan5362"
+  linkedin = "chandan5362"
+  medium = "chandan5362"
+  twitter = "Chandan15771793"
+  instagram = "chandan_5362"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+[[menu.main]]
+    name = "Updates"
+    identifier = "Updates"
+    weight = 200
+    url = "/static/updates"
