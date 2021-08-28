@@ -5,6 +5,7 @@ theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Chandan Roy - All rights reserved"
 enableEmoji = true
+disqusShortname = "chandan5362"
 
 [params]
   logo = "/images/logo.png"
@@ -50,3 +51,9 @@ I am a 4th year undergraduate at Indian Institute of information Technology Sric
     identifier = "Updates"
     weight = 200
     url = "/static/updates"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
