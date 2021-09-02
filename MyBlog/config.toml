@@ -70,9 +70,9 @@ Data Visulization & story telling
 
 [[menu.main]]
     name = "ML Glossary"
-    identifier = "ml-glossary"
+    identifier = "ml glossary"
     weight = 200
-    url = "/ML Glossary"
+    url = "/glossary"
 
 [markup]
   [markup.goldmark]
