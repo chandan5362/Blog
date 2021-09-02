@@ -173,7 +173,7 @@ The subscript ***c***  is the degreee of freedom.  **O**  is your observed value
 
   ```python
   #use pd.crosstab to create contingency table
-  cont_table  = pd.crosstab(ratings_df['tenure'], ratings_df['gender'])
+  cont_table  = pd.crosstab(is_single, Gender)
   cont_table
   ```
 

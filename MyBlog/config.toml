@@ -6,10 +6,11 @@ summaryLength = 25
 copyright = "Chandan Roy - All rights reserved"
 enableEmoji = true
 disqusShortname = "chandan5362"
+googleAnalytics = "G-DNTXE8FETV"
 
 [params]
   logo = "/images/logo.png"
-  description ="All about Data!"
+  description ="Geek's recharge point🤖"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
@@ -25,7 +26,16 @@ disqusShortname = "chandan5362"
 I am a 4th year undergraduate at Indian Institute of information Technology Sricity, Chittoor\
 **(Computer Science and Engineering)**
 
-## Hello there!'''
+## Skills
+Statistics\
+Machine Learning\
+Deep Learning\
+Computer Vision\
+Natural language Processing\
+Data Visulization & story telling
+
+ **To know more about my experiences and projects**, [click here](/static/portfolio)
+'''
   alertbar = false
 
 [params.social]
@@ -42,15 +52,27 @@ I am a 4th year undergraduate at Indian Institute of information Technology Sric
     identifier = "blog"
     url = "/blog"
 [[menu.main]]
-    name = "About Me"
-    identifier = "about"
-    weight = 200
-    url = "/"
-[[menu.main]]
     name = "Updates"
     identifier = "Updates"
     weight = 200
     url = "/static/updates"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 200
+    url = "/static/portfolio"
+
+[[menu.main]]
+    name = "ML Glossary"
+    identifier = "ml-glossary"
+    weight = 200
+    url = "/ML Glossary"
 
 [markup]
   [markup.goldmark]
