@@ -12,7 +12,7 @@ My name is **Chandan Kumar Roy** and I am an aspiring **data scientist**. The da
 
 <div style="text-align:center; color:blue;"><h3>Open to Work</h3></div>
 
-In case you want to collaborate with me on some cool projects or research topic, please drop a mail or leave a message on [linkedin](https://www.linkedin.com/in/chandan5362/).
+In case you want to collaborate with me on some projects or research topic, please drop a mail or leave a message on [linkedin](https://www.linkedin.com/in/chandan5362/).
 
 Email : chandanraj559@gmail.com
 
@@ -20,9 +20,9 @@ Email : chandanraj559@gmail.com
 
 **S**o far, I have worked on some cool projects including both university projects and side projects. I also have a very good experience of working in the industries remotely (part time).  
 
-On this page, I will let you know about my `past works` and `present works`. I am a vivid learner and love to write about my learning and cool tech stuff. Though I am not a good writer, it takes a lot of efforts while writing  blogs. In case you love my works and posts, feel free to ping me on [linkedin](https://www.linkedin.com/in/chandan5362/) or atleast, leave a comment in the comment section.
+On this page, I will let you know about my `past` and `present`works. I am a vivid learner and love to write about my learning and interesting tech stuff. Though I am not a good writer, it takes a lot of efforts while writing  blogs. In case you love my works and posts, feel free to ping me on [linkedin](https://www.linkedin.com/in/chandan5362/) or atleast, leave a comment in the comment section.
 
-I also work as a **freelancer.** To know more about my freelance work, head over to my [profile](https://www.freelancer.in/u/chandan5362). My areas of work and interests are Python, Machine learning, Deep Learning, Data Science, Computer vision , Natural Language Processing, Data pipelining using Apache airflow. In case  you need any help related to any of the above mentioned topics, feel free to get back to me on [linkedin](https://www.linkedin.com/in/chandan5362/).
+I also work as a **freelancer.** To know more about my freelance work, head over to my [profile](https://www.freelancer.in/u/chandan5362). My areas of work and interests are Python, Machine learning, Deep Learning, Data Science, Computer vision , Natural Language Processing, Data pipelining using Apache airflow. In case  you need any help related to any of the aforementioned topics, feel free to ping me on [linkedin](https://www.linkedin.com/in/chandan5362/).
 
 ### Work Experiences (past and present)
 
@@ -34,11 +34,11 @@ I also work as a **freelancer.** To know more about my freelance work, head over
 
 
 
-* **Spatial mapping of soil nutrients:** It is a part of my semester long project. I along with other two members are working together to come up deep neural network based mapping technique that can generate a high resolution map of a given area based on their geocordinates. We have used many attention techniques that can map the spatial relationship among the neigbouring points. You can find the more details about the same [here](https://github.com/chandan5362/Soil-Mapping).
+* **Spatial mapping of soil nutrients:** It is a part of my semester long project. I along with other two members are working together to come up with deep neural network based mapping technique that can generate a high resolution map of a given area based on their geocordinates. We have used many attention techniques that can map the spatial relationship among the neigbouring points. You can find the more details about the same [here](https://github.com/chandan5362/Soil-Mapping).
 
 * **Automatic Number plate detection:** it was a part of my deep learning course. I came up with an idea to develop a number plate recogniser for Indian Vehicle number plates. There is no any standard Indian Vehicle Number Plate dataset available online. Also Vehicle numbering system does not follow any particular convention. So, It was challenging to collect the Indian Number plate and manually annotate them. YOLOV3 model was used as a number plate detector and the detected cropped image is passed through PyTesseract for digit/number recognition. If you are curious to know more about my project, head over to the project [repository](https://github.com/chandan5362/Automatic-Number-plate-Detection---ANPR).
 
-* **FooDE:** It was a part of my Enterprise Application development course. I along woth other three members worked together to develop a Food delivery smart web app. It is called smart because It will automatically recommend you dishes of your choice using **Recommendation system** under the hood. Project can be found [here](https://github.com/chandan5362/FooDE).
+* **FooDE:** It was a part of my Enterprise Application development course. I along with other three members worked together to develop a Food delivery smart web app. It is called smart because It will automatically recommend you dishes of your choice using **Recommendation system** under the hood. Project can be found [here](https://github.com/chandan5362/FooDE).
 
 * **Multi-Document Text Summariser:**  This is my persoal project that I worked on during my Information retriveal course. I found a genuine interest  in IR system and Knowledge mining. I have been working endlessly on these two domains as a part of my side project. It was a basic project made using NLTK and ML models.  Currently I am working on the same project to expand it further that could include modern state-of-the art model. [link](https://github.com/chandan5362/Information-retrieval/tree/main/MUlti-Document%20Text%20summarizer).
 
