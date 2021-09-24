@@ -4,7 +4,6 @@ date: 2021-09-24T17:46:41+05:30
 tags: ["statistics", "machine learning", "linear-algebra"]
 comments: true
 mathjax: true
-draft: true
 
 ---
 
@@ -34,7 +33,8 @@ A = np.asarray([[2, 4], [1,3], [0, 0], [0, 0]])
 
 ```python
 # write A as  A=UΣ(V.T)
-# U
+# Assume that A is a full rank matrix.
+# For more information, I have given a link in the reference section. Do checkout.
 AA_T = A.dot(A.T)
 print(AA_T.shape)
 u_eval, u_evect = np.linalg.eig(AA_T)
@@ -100,10 +100,16 @@ V.T =
 array([[-0.40455358, -0.9145143 ],
        [-0.9145143 ,  0.40455358]])
        
- singular values=
- array([5.4649857 , 0.36596619])
+singular values=
+array([5.4649857 , 0.36596619])
 ```
 
 
 
 Negative sign means the direction of eigen vectors gets reversed while keeping the magnitude as a liinear function of singular values. 
+
+##### References:
+
+* https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm
+
+  
