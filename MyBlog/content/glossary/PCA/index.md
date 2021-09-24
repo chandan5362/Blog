@@ -1,7 +1,7 @@
 ---
 title: "Principal Component Analysis (PCA)"
 date: 2021-09-02T17:46:41+05:30
-tags: ["statistics", "machine learning"]
+tags: ["statistics", "machine learning", "linear-algebra"]
 comments: true
 mathjax: true
 
@@ -33,30 +33,52 @@ output:
 (1000, 15)
 ```
 
-<br>
+
 
 ### Important Points
+
 1. eigen vectors corresponding to highest eigen vector
 contains most of the variance in the dataset, second eigen value contains the second highest variance in the dataset and so on.
 2. eigen vectors represent the linear combination of original feature vectors.
 3. Eigen vectors do not change their directions, when linear rotation(scaling) is applied to them.
-    
+   
 
 ### Steps :
-1. Sandardizing.
-2. find the covariance matrix.
-3. find the eigen values and eigen vectors.
-4. sort the eigen values and corresponding eigen vectors in descending order of eigen values.
-5. retain the first `k` components of sorted eigen values to meet the `k` new feature dimension requirement.
-6. project the original datapoints onto the line in the direction of eigen vectors.
-<br>
+1. Sandardizing (if the scale of the data is not uniform).
+
+2. Zero center the data (substract the mean value)
+
+3. find the covariance matrix.
+
+4. find the eigen values and eigen vectors.
+
+5. sort the eigen values and corresponding eigen vectors in descending order of eigen values.
+
+6. retain the first `k` components of sorted eigen values to meet the `k` new feature dimension requirement.
+
+7. project the original datapoints onto the line in the direction of eigen vectors.
+
+  
 
 Let's see these steps one by one.
 ##### 1. Standardization
+
+Since our data already follows a uniform scale, Let's not do that here.
+
 ```python
-x_scaled = StandardScaler().fit_transform(x_toy)
+x_scaled = StandardScaler().fit_transform(x_toy) 
 ```
-<br>
+**2.** **Zero centering**
+
+ Mean centering ensures that the first component is proportional to the direction of maximum variance.
+
+```python
+x_toy = x_t - x_t.mean(axis = 0)
+```
+
+
+
+
 
 ##### 2. covariance matrix
 
@@ -64,7 +86,7 @@ x_scaled = StandardScaler().fit_transform(x_toy)
 ```python
 # covariance matrix dimension: (n_clos, n_cols)
 n_cols = 15
-cov = (x_scaled.T - (np.mean(x_scaled, axis = 1))).dot((x_scaled.T - (np.mean(x_scaled, axis = 1))).T)
+cov = np.cov(x_toy, rowvar = False, bias = True)
 assert cov.shape == (n_cols, n_cols)
 ```
 <br>
@@ -89,11 +111,10 @@ There are 15 eigen values and corresponding to each eigen value, there is an eig
 
 
 ```python
-mat = eig_val_vect.tolist()
 indices = [i for i in range(len(eig_val))]
 
 #sort the index of eig_val in descending order
-indices.sort(key = eig_val_vect[0].__getitem__, reverse=True)
+indices.sort(key = eig_val[0].__getitem__, reverse=True)
 
 #sorted eigen vectors
 sorted_eig_vect = eig_vect[:, indices]
