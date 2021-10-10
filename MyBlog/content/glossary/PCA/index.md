@@ -73,7 +73,7 @@ x_scaled = StandardScaler().fit_transform(x_toy)
  Mean centering ensures that the first component is proportional to the direction of maximum variance.
 
 ```python
-x_toy = x_t - x_t.mean(axis = 0)
+x_toy = x_toy - x_toy.mean(axis = 0)
 ```
 
 
@@ -114,7 +114,7 @@ There are 15 eigen values and corresponding to each eigen value, there is an eig
 indices = [i for i in range(len(eig_val))]
 
 #sort the index of eig_val in descending order
-indices.sort(key = eig_val[0].__getitem__, reverse=True)
+indices.sort(key = eig_val.__getitem__, reverse=True)
 
 #sorted eigen vectors
 sorted_eig_vect = eig_vect[:, indices]

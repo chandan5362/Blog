@@ -52,11 +52,27 @@ I also work as a **freelancer.** To know more about my freelance work, head over
 * **Tic-Tac-Toe Game -** I bet, you can not defeat my AI agent🤖. Challenge my AI bot [here](https://github.com/chandan5362/Game-Theory/blob/master/Tic_Tac_Toe.py)
 * **Nine men's Morris -**  Get a vibe of old days. It's very interesting. try [here](https://github.com/chandan5362/Game-Theory/blob/master/nine_men_morris.py)
 
+## Courses
 
+* Database Management System ( Fall 2019 )
+* Machine Learning ( Fall 2020 )
+* Information Retrieval ( Fall 2020 )
+* Data Analytics (*specialization elective*, spring 2021 )
+* Deep Learning (spring 2021 )
+* Computer Vision ( Spring 2021 )
+* Big Data Analytics ( *specialization elective*, Summer 2021 )
+* Natural Language Processing ( Fall 2021 )
+* Data Mining ( Fall 2021 )
+
+## Certification
+
+* [IBM Data Science Professional](https://coursera.org/share/ed05ffd49a8d84606d5a04a1ac51215e)
+* [Neural Networks and Deep learning](https://www.coursera.org/account/accomplishments/verify/5CMGBYDLUFAX?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=link)
+* [Improving Deep neural networks](https://www.coursera.org/account/accomplishments/verify/HA37WSDQZ297?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=link)
 
 ## Roles and Responsibilities
 
-Currently I am the **club head/president** of our college's **Data Science Club**(Matrix). To get more details about clubs in our college, feel free to check out the official [website](https://www.iiits.ac.in). For any collaboration/contests, get back to us on our official club mail-id.
+Currently I am the **club head/president** of our college's **Data Science Club**(Matrix). To get more details about clubs in our college please check out the official [website](https://www.iiits.ac.in). For any collaboration/contests get back to us on our official club mail-id.
 
 Club mail ID: [datasience.club@iiits.in]()
 
@@ -71,6 +87,6 @@ I have some successful PR merged with Main branch. It's just the beginning. I wi
 
 **Successful PRs in PyMC3** - [PR1](https://github.com/pymc-devs/pymc3/pull/4239) , [PR2](https://github.com/pymc-devs/pymc3/pull/4392) , [PR3](https://github.com/pymc-devs/pymc3/pull/4458)
 
-### 
+
 
 ​										
