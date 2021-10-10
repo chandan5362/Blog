@@ -150,5 +150,6 @@ Happy Learning...📚📖🙇
 
 # References
 
-1. image credits :  Natural Language processing with classification and vector space coursera course. (Please do checkout the coursera course for in-depth intuition)
+1. image credits: Natural Language processing with classification and vector space coursera course. (Please do checkout the coursera course for in-depth intuition)
+2. cover image: https://www.pexels.com
 
