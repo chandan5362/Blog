@@ -2,7 +2,6 @@
 title: "Hypothesis Testing"
 date: 2021-08-27T17:46:41+05:30
 tags: ["statistics", "data science"]
-comments: true
 mathjax: true
 
 ---

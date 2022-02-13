@@ -10,7 +10,7 @@ googleAnalytics = "G-DNTXE8FETV"
 
 [params]
   logo = "/images/logo.png"
-  description ="Geek's recharge point🤖"
+  description =""
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
@@ -21,10 +21,10 @@ googleAnalytics = "G-DNTXE8FETV"
 [params.index]
   picture = "/images/author.png"
   title = "Chandan Kumar Roy"
-  subtitle = "Aspiring Data Scientist"
+  subtitle = "Data Science and Machine Learning"
   mdtext = '''
 I am a 4th year undergraduate at Indian Institute of information Technology Sricity, Chittoor\
-**(Computer Science and Engineering)**
+**(Computer Science and Engineering with specialization in Data Science)**
 
 ## Skills
 Statistics\
@@ -34,7 +34,7 @@ Computer Vision\
 Natural language Processing\
 Data Visualization & story telling
 
- **To know more about my experiences and projects**, [click here](/static/portfolio)
+ **Please find my resume here**, [click here](https://drive.google.com/file/d/16mlTly4vQOASLNt0Erva0jtLfQ9i1cUO/view?usp=sharing)
 '''
   alertbar = false
 
@@ -51,22 +51,13 @@ Data Visualization & story telling
     weight = 100
     identifier = "blog"
     url = "/blog"
-[[menu.main]]
-    name = "Updates"
-    identifier = "Updates"
-    weight = 200
-    url = "/static/updates"
+
 [[menu.main]]
     name = "About Me"
     identifier = "about"
     weight = 200
     url = "/"
 
-[[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 200
-    url = "/static/portfolio"
 
 [[menu.main]]
     name = "ML Glossary"

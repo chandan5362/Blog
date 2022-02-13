@@ -3,7 +3,6 @@ title: "Introduction to Machine Translation in NLP"
 date: 2021-10-09T22:43:36+05:30
 tags: ["Natural Language Processing", "Machine Learning"]
 Mathjax: true
-comments: true
 ---
 
 Imagine yourself in 1800s and you plan a travel to France being a native english speaker. It would have been nearly impossible to communicate with native French speaking community. But now the world of impossibilities has been simplified with the technologies and research that have gained pace in the past couple of decades.  **Natural Language Processing** is a subfield of **AI** and **Linguistic** that deals machine interaction with human language.
