@@ -20,21 +20,118 @@ googleAnalytics = "G-DNTXE8FETV"
 
 [params.index]
   picture = "/images/author.png"
-  title = "Chandan Kumar Roy"
-  subtitle = "Data Science and Machine Learning"
+  title = "Data Scientist at Episource LLC"
   mdtext = '''
-I am a 4th year undergraduate at Indian Institute of information Technology Sricity, Chittoor\
-**(Computer Science and Engineering with specialization in Data Science)**
+## About me
+---
+Hello there! My name is Chandan Kumar Roy and currently I am in senior year at Indian Institute of information Technology Sricity, Chittoor. I am doing my major in 
+**Computer Science and Engineering (CSE)** with specialization in **Data Science**. Apart from core data science subjects like statistics, linear algebra, I also have interest in fields like 
+Computer vision, Natural Language Processing. I am a research oriented person and have co-authored one research paper until now. 
 
-## Skills
-Statistics\
-Machine Learning\
-Deep Learning\
-Computer Vision\
-Natural language Processing\
-Data Visualization & story telling
+## Areas of Interest
+---
+* Statistics
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural language Processing
+* Data Visualization & story telling
 
- **Please find my resume here**, [click here](https://drive.google.com/file/d/16mlTly4vQOASLNt0Erva0jtLfQ9i1cUO/view?usp=sharing)
+## Work Experiences
+---
+* Currently, I am working at *Episource India Pvt Ltd* as a **Computer Vision intern**. There I am working on automating the medical charts report
+for faster and smooth diagnosis of regular patients. Recently, my model has successfully made to the production environment and is higly scalable.
+
+* I have worked as a **Data science intern** with *Learning Evolution Pvt Ltd*. There I mainly worked with the computer vision team. 
+My roles and responsibilities were to develop DL models for head pose estimation, gaze estimation, generate facial embeddings, 
+face verification system and maintain their lifecycle throught the development phase. I fine-tuned the existing state-of-the-art 
+models for our use cases and created a new one wherever necessary. Apart from these, I also worked on kafka queuer for smoothig communication
+between models and backend servers.
+
+* I also work as a **freelancer.** To know more about my freelance work, head over to my [profile](https://www.freelancer.in/u/chandan5362). 
+My areas of expertise are Python, Machine learning, Deep Learning, Data Science, Computer vision , Natural Language Processing, 
+Data pipelining. In case  you need any help related to any of the aforementioned topics, please ping me on [linkedin](https://www.linkedin.com/in/chandan5362/).
+
+## Projects
+---
+* **Spatial mapping of soil nutrients:** It was a part of my semester long project. I along with other two members are 
+working together to come up with a deep neural network based mapping technique that can generate a high 
+resolution map of a given area based on their geocordinates. We have used many attention techniques that 
+can map the spatial relationship among the neigbouring points. You can find the more details about the same [here](https://github.com/chandan5362/Soil-Mapping).
+
+* **Automatic Number plate detection:** it was a part of my deep learning course. I came up with an idea to develop a number 
+plate recogniser for Indian Vehicle number plates. There is no any standard Indian Vehicle Number Plate dataset 
+available online. Also Vehicle numbering system does not follow any particular convention. So, It was challenging 
+to collect the Indian Number plate and manually annotate them. YOLOV3 model was used as a number plate detector and the 
+detected cropped image is passed through PyTesseract for digit/number recognition. If you are curious to know more about this project, 
+head over to the project [repository](https://github.com/chandan5362/Automatic-Number-plate-Detection---ANPR).
+
+* **FooDE:** It was a part of my Enterprise Application Development course. 
+I along with other three members worked together to develop a Food deliver smart web app. 
+This project was developed in an agile environment. Trough this project, we got to learn about basic software
+engineering practice and developing scalable application. This project can be found [here](https://github.com/chandan5362/FooDE).
+
+* **Multi-Document Text Summarizer:**  This is my personal project that I worked on during my Information retriveal course. 
+I found a genuine interest  in IR system and Knowledge mining. It was a basic project made using NLTK and ML models. More details about the project can be found [here](https://github.com/chandan5362/Information-retrieval/tree/main/MUlti-Document%20Text%20summarizer).
+
+* **Smart Driver Monitoring System:** A deep learning, CV and mediapipe based smart driving monitoring framework that supports head pose estimation, drowsiness detection, 
+object detection like cell phone, wine glass etc. This project can be found [here](https://github.com/chandan5362/Smart-Driver-Monitoring-System).
+
+## Mini Projects
+---
+* **Human Action Recognition API** -  Detailed instructions about this API can be found [here](https://github.com/chandan5362/Human-Action-Recognition).
+* **IIITS-OJ** -  It's a basic online Judge platfrom for online coding contest. I did It along with other three members while I was exploring web development.[link](https://github.com/chandan5362/IIITS-OJ)
+* **Battle of Neighbourhood -**  It was a part of courser capstone project.[link](https://github.com/chandan5362/Coursera_Capstone/blob/master/Battle-of-Neighbourhood.ipynb)
+* **Tic-Tac-Toe Game -** I bet, you can not defeat my AI agent🤖. Challenge my AI bot [here](https://github.com/chandan5362/Game-Theory/blob/master/Tic_Tac_Toe.py)
+* **Nine men's Morris -**  Get a vibe of old days. It's very interesting. try [here](https://github.com/chandan5362/Game-Theory/blob/master/nine_men_morris.py)
+
+##  Relevant Courses
+---
+* Database Management System (Fall 2019)
+* Machine Learning (Fall 2020)
+* Information Retrieval (Fall 2020)
+* Data Analytics (*specialization elective*, spring 2021)
+* Deep Learning (spring 2021 )
+* Computer Vision ( Spring 2021 )
+* Big Data Analytics (*specialization elective*, Summer 2021)
+* Natural Language Processing (Fall 2021)
+* Data Mining (Fall 2021)
+* Brain Computer Interaction (Spring 2022)
+
+## Certification
+---
+* [IBM Data Science Professional](https://coursera.org/share/ed05ffd49a8d84606d5a04a1ac51215e)
+* [Neural Networks and Deep learning](https://www.coursera.org/account/accomplishments/verify/5CMGBYDLUFAX?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=link)
+* [Improving Deep neural networks](https://www.coursera.org/account/accomplishments/verify/HA37WSDQZ297?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=link)
+
+## Roles and Responsibilities
+---
+Currently I am the **club head/president** of our college's **Data Science Club**(Matrix). To get more details about clubs in our college please check out the official [website](https://www.iiits.ac.in). For any collaboration/contests get back to us on our official club mail-id.
+
+Club mail ID: [datasience.club@iiits.in]()
+
+
+## Open-Source contribution
+---
+* **PyMC3** - [PR1](https://github.com/pymc-devs/pymc3/pull/4239) , [PR2](https://github.com/pymc-devs/pymc3/pull/4392) , [PR3](https://github.com/pymc-devs/pymc3/pull/4458)
+
+## Publications
+---
+* I have Co-authored the article “ OCFormer: One class Transformer Network for Image classification”. Currently it is under review in IEEE-SPL and the preprint version can be found here.
+
+## Hobbies and Interests
+---
+* I love to play Basketball🏀 (all time favourite).
+* I write blogs and posts. please do checkout my medium [link](https://chandan5362.medium.com) also.
+
+## How to reach me
+---
+* [Linkedin](https://www.linkedin.com/in/chandan5362/)
+* [Email](chandanraj559@gmail.com)
+
+## Resume
+---
+ **Please find my updated resume here**, [click here](https://drive.google.com/file/d/1KkEgU0jLauxHCN5HULkQf6u5mAaaGLay/view?usp=sharing)
 '''
   alertbar = false
 

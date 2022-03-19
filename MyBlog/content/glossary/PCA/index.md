@@ -2,7 +2,6 @@
 title: "Principal Component Analysis (PCA)"
 date: 2021-09-02T17:46:41+05:30
 tags: ["statistics", "machine learning", "linear-algebra"]
-comments: true
 mathjax: true
 
 ---

@@ -2,7 +2,6 @@
 title: "Bias and Variance Trade-off"
 date: 2021-09-10T03:40:41+05:30
 tags: ["statistics", "machine learning"]
-comments: true
 mathjax: true
 
 ---

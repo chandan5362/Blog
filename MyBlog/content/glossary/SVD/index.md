@@ -2,7 +2,6 @@
 title: "Singular Value Decomposition(SVD) in python from scratch"
 date: 2021-09-24T17:46:41+05:30
 tags: ["statistics", "machine learning", "linear-algebra"]
-comments: true
 mathjax: true
 
 ---
