@@ -22,13 +22,15 @@ PygmentsStyle = "emacs"
 
 [params.index]
   picture = "/images/author.png"
-  title = "Data Scientist at Episource LLC"
+  title = "Computer Vision Engineer  at Orbo.ai"
   mdtext = '''
 ## About me
 ---
-Hello there! My name is Chandan Kumar Roy and currently I am in senior year at Indian Institute of information Technology Sricity, Chittoor. I am doing my major in 
-**Computer Science and Engineering (CSE)** with specialization in **Data Science**. Apart from core data science subjects like statistics, linear algebra, I also have interest in fields like 
-Computer vision, Natural Language Processing. I am a research oriented person and have co-authored one research paper until now. 
+Hello readers! Thanks for coming across my website.
+I am curently working as a CV engineer at a software firm. I have deep expertise in statistics, Image processing, Machine Learning and Deep Learning.
+Apart from these i have deep interest in ethical hacking and computer architecture. 
+
+ 
 
 ## Areas of Interest
 ---
@@ -41,18 +43,10 @@ Computer vision, Natural Language Processing. I am a research oriented person an
 
 ## Work Experiences
 ---
-* Currently, I am working at *Episource India Pvt Ltd* as a **Computer Vision intern**. There I am working on automating the medical charts report
-for faster and smooth diagnosis of regular patients. Recently, my model has successfully made to the production environment and is higly scalable.
+* Computer vision Engineer at *Orbo.ai* (June 2022 - present)
+* Interned at *Episource LLC* as data science intern.
+* Worked at Learning evolution pvt ltd (a subsidiary of Datoin) as a full stack data scientist.
 
-* I have worked as a **Data science intern** with *Learning Evolution Pvt Ltd*. There I mainly worked with the computer vision team. 
-My roles and responsibilities were to develop DL models for head pose estimation, gaze estimation, generate facial embeddings, 
-face verification system and maintain their lifecycle throught the development phase. I fine-tuned the existing state-of-the-art 
-models for our use cases and created a new one wherever necessary. Apart from these, I also worked on kafka queuer for smoothig communication
-between models and backend servers.
-
-* I also work as a **freelancer.** To know more about my freelance work, head over to my [profile](https://www.freelancer.in/u/chandan5362). 
-My areas of expertise are Python, Machine learning, Deep Learning, Data Science, Computer vision , Natural Language Processing, 
-Data pipelining. In case  you need any help related to any of the aforementioned topics, please ping me on [linkedin](https://www.linkedin.com/in/chandan5362/).
 
 ## Projects
 ---
